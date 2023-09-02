@@ -7,4 +7,4 @@ const handleKeyPress = (e: any) => {
   }
 };
 
-window.addEventListener("keydown", handleKeyPress);
+document.addEventListener("keydown", handleKeyPress);
